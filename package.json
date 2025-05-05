@@ -1,0 +1,26 @@
+{
+  "name": "uk-counties-cities-towns",
+  "version": "1.0.0",
+  "description": "Provides a list of UK Counties and their associated towns and cities in a JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stormwebdesign/uk-counties-cities-towns.git"
+  },
+  "keywords": [
+    "uk",
+    "counties",
+    "cities",
+    "towns",
+    "county"
+  ],
+  "author": "Russell English",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stormwebdesign/uk-counties-cities-towns/issues"
+  },
+  "homepage": "https://github.com/stormwebdesign/uk-counties-cities-towns#readme"
+}
